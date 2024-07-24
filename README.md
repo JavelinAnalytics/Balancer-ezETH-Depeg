@@ -16,6 +16,7 @@ As already evident from the token balances charts, the main pre existing problem
 As seen in both price feeds below, the de peg was felt across both chains ethereum mainnet and arbitrum, however at an incredibly lesser degree on arbitrum. The negative sentiment and FUD was felt across both chains on Balancer, however it was precisely the massive liquidations that cascaded the ezETH/ETH price on ethereum mainnet. On the other hand, only dealing with FUD and arbitrageur selling pressure, as well as benefiting from a lack of leverage farming liquidations, the ezETH/wstETH price on arbitrum was able to stay in tact. 
 
 Fortunately, for all ezETH holders (stakers, restakers, liquidity providers) combined efforts between arbitrageurs sweeping in and Renzo making timely corrective announcements beneficial to its community as well as the announced enablement of withdrawals in Q2 2024, helped settle the smoke.
+
 ##Requirements
 - Python >= 3.7
 - Infura API Key
