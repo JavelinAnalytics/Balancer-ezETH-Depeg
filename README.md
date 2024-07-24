@@ -20,5 +20,5 @@ During the ezETH depeg (April 23rd-24th) 340 million dollars of ezETH collateral
 - Python >= 3.7
 - Infura API Key
 - Dune API Key
-- To install required libraries: 'pip install dune-client'
+- To install required libraries: `pip install dune-client`
 - Download all included contract ABIs
