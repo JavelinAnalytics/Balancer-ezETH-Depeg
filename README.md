@@ -3,7 +3,7 @@ Web3 application for analyzing the differences between the ezETH depeg (April 23
 ezETH/WETH on mainnet, and ezETH/wstETH on arbitrum. Establishes connections with both liquidity pool contracts, vault contracts, as well 
 as corresponing Chainlink Price Oracles, and iterates through corresponding block numbers for the depeg period, derived utlizing a Dune query,
 obtaining crucial time series information including exchange rate prices, raw token balances, as well as BPT prices as plots. This program provides
-a comprehensive review between the unfolding of the ezETH depeg between mainnet and arbitrum.
+a comprehensive comparison between the unfolding of the ezETH depeg between mainnet and arbitrum.
 ## Comprehensive Report
 During the ezETH depeg (April 23rd-24th) 340 million dollars of ezETH collateral was liquidated across lending protocols deployed mainly across Ethereum mainnet and L2s. The liquidations included 115 credit accounts accounting for 10650 ezETH being sold on Balancer alone. Below, we will analyze the event as it occurred on Balancer, comparing the overall resilience of arbitrum pools with the clear de peg on ethereum pools.
  
